@@ -1,7 +1,7 @@
 # express-pouchdb-memleak
 
 A sample app to reproduce and visualize the memory leak problem with **express-pouchdb**
-and `dbs/<db_name>/_changes` GET request.
+and `dbs/<db_name>/_changes` GET request. See https://github.com/pouchdb/express-pouchdb/issues/398.
 
 ## Setting up
 
